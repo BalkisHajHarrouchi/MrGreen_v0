@@ -1,0 +1,394 @@
+Le parcours Télécommunications (Télécom) couvre les 4e et 5e années du cycle ingénieur. Il totalise 60 ECTS par an avec une charge horaire moyenne de 717h en 4e année et 372h en 5e (hors PFE). L’accent est mis sur les réseaux avancés, la transmission, la data, l’innovation et la professionnalisation.
+4Télécom : Réseaux cellulaires, routage intelligent, backend, data analytics, projet, options, stage.
+5Télécom : Management, réseaux du futur, durabilité, certifications 5G, stage et Projet de Fin d’Études (PFE).
+Ce parcours prépare à des carrières dans les télécommunications, les infrastructures réseau et les services numériques innovants.
+
+En troisième année du parcours TIC (3TIC), la formation est répartie sur deux semestres, pour un total de 60 crédits ECTS et environ 546 heures d’enseignement. Chaque semestre est structuré autour d’unités d’enseignement (UE) composées de modules complémentaires, favorisant l’équilibre entre programmation, réseaux, développement logiciel, ingénierie numérique, communication et projets pratiques.
+*Au semestre 5, les étudiants suivent six UE principales :
+-L’UE Modélisation et Programmation Objet comprend deux modules totalisant 84 heures, permettant d’acquérir 7 crédits ECTS.
+-L’UE Communication, Culture et Citoyenneté A3 propose un module transversal de 42 heures, attribuant 3 crédits ECTS.
+-L’UE Administration & sécurité des SE (Unix) contient un seul module de 42 heures, pour 5 crédits ECTS.
+-L’UE Méthodes numériques pour l’ingénieur regroupe deux modules complémentaires pour un total de 63 heures, valant 6 crédits ECTS.
+-L’UE Théorie des langages est composée d’un seul module de 42 heures, permettant d’obtenir 3 crédits ECTS.
+-L’UE Réseau IP et Routage comprend quatre modules techniques pour une charge de 84 heures, attribuant 6 crédits ECTS.
+*Au semestre 6, les étudiants poursuivent avec cinq nouvelles UE :
+-L’UE Management de l’entreprise contient deux modules pour un total de 42 heures, correspondant à 3 crédits ECTS.
+-L’UE Génie logiciel est constituée d’un module unique de 42 heures, équivalant à 2 crédits ECTS.
+-L’UE Développement web & mobile regroupe trois modules, totalisant 147 heures, pour un total de 11 crédits ECTS.
+-L’UE PI Web Mobile propose un projet encadré de 42 heures, permettant de valider 7 crédits ECTS.
+-L’UE Techniques d’estimation pour l’ingénieur comprend un module unique de 42 heures, apportant 4 crédits ECTS.
+-L’UE Communication, Culture et Citoyenneté F3 propose un module transversal de 42 heures, valant 3 crédits ECTS.
+-UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F3/A3 : Modules en Français/Anglais, année 3.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+A3 : Module en Anglais, année 3.
+F3 : Module en Français, année 3.
+En troisième année du parcours TIC (3TIC), durant le semestre 5 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Modélisation et Programmation Objet" ou bien la matière "Modélisation et Programmation Objet" comprend deux modules :
+-Langage de Modélisation (UML) (42 heures, période 1, 4 ECTS),
+-Conception par Objet et Programmation Java (42 heures, période 2, 3 ECTS).
+Cette UE totalise 84 heures d’enseignement pour 7 crédits ECTS.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+A3 : Module en Anglais, année 3.
+F3 : Module en Français, année 3.
+En troisième année du parcours TIC (3TIC), durant le semestre 5 de l’année universitaire 2024/2025, le module transversal "UE Communication, Culture et Citoyenneté A3" ou bien la matière "CCC A3" est dispensé sur 42 heures pendant les périodes 1 et 2. Ce module permet de valider 3 crédits ECTS et vise à renforcer la communication professionnelle en anglais et la citoyenneté numérique.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+A3 : Module en Anglais, année 3.
+F3 : Module en Français, année 3.
+En troisième année du parcours TIC (3TIC), durant le semestre 5 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Administration & sécurité des SE (Unix)" ou bien la matière du même nom est constituée d’un seul module :
+-Administration & sécurité des SE (Unix) (42 heures, période 2, 5 ECTS).
+Cette UE permet l’approfondissement des compétences en administration système et sécurité dans un environnement Unix/Linux.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+A3 : Module en Anglais, année 3.
+F3 : Module en Français, année 3.
+En troisième année du parcours TIC (3TIC), durant le semestre 5 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Méthodes numériques pour l’ingénieur" comprend deux modules :
+-Analyse numérique (42 heures, période 1, 4 ECTS),
+-Calcul scientifique (21 heures, période 2, 2 ECTS).
+L’ensemble des deux modules représente 63 heures pour un total de 6 crédits ECTS.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+A3 : Module en Anglais, année 3.
+F3 : Module en Français, année 3.
+En troisième année du parcours TIC (3TIC), durant le semestre 5 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Théorie des langages" est composée d’un module unique :
+-Théorie des langages (42 heures, période 2, 3 ECTS).
+Ce module vise à développer la compréhension des langages formels et des automates, fondamentaux pour la compilation et les langages de programmation.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+A3 : Module en Anglais, année 3.
+F3 : Module en Français, année 3.
+En troisième année du parcours TIC (3TIC), durant le semestre 5 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Réseau IP et Routage" comprend quatre modules techniques :
+-IP Essentials (21 heures, période 1, 1 ECTS),
+-Switched Networks (21 heures, période 2, 2 ECTS),
+-IPNet Routing (21 heures, période 2, 2 ECTS),
+-CCNA (21 heures, période 2, 1 ECTS).
+La charge horaire totale est de 84 heures pour un total de 6 crédits ECTS. Cette UE prépare les étudiants aux certifications réseaux et à la compréhension des protocoles IP modernes.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+A3 : Module en Anglais, année 3.
+F3 : Module en Français, année 3.
+En troisième année du parcours TIC (3TIC), durant le semestre 6 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Management de l’entreprise" comprend deux modules :
+-Analyse et Décisions Financières (21 heures, période 1, 1,5 ECTS),
+-Environnement de l’entreprise (21 heures, période 2, 1,5 ECTS).
+Cette UE totalise 42 heures d’enseignement pour un total de 3 crédits ECTS.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+En troisième année du parcours TIC (3TIC), durant le semestre 6 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Génie logiciel" est composée d’un seul module :
+-Génie logiciel & atelier GL (42 heures, période 1, 2 ECTS).
+Cette UE vise à appliquer les principes du développement logiciel encadré et collaboratif.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+En troisième année du parcours TIC (3TIC), durant le semestre 6 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Développement web & mobile" comprend trois modules :
+-Systèmes de Gestion de Bases de Données (42 heures, période 1, 5 ECTS),
+-Programmation des terminaux mobiles (21 heures, période 2, 3 ECTS),
+-Technologies Web 2.0 (21 heures, période 2, 3 ECTS).
+Ce bloc d’enseignement représente un total de 147 heures pour un total de 11 crédits ECTS.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+En troisième année du parcours TIC (3TIC), durant le semestre 6 de l’année universitaire 2024/2025, l’unité d’enseignement "UE PI Web Mobile" contient un seul module appliqué :
+-Projet développement Web Java (42 heures, période 2, 7 ECTS).
+Ce projet pratique permet de mobiliser les acquis des modules précédents dans un développement concret.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+En troisième année du parcours TIC (3TIC), durant le semestre 6 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Techniques d’estimation pour l’ingénieur" est composée d’un seul module :
+-Techniques d’estimation pour l’ingénieur (42 heures, période 1, 4 ECTS).
+Ce module permet d’approfondir les méthodes de modélisation quantitative et statistique en contexte d’ingénierie.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F3 : Module en Français, année 3.
+En troisième année du parcours TIC (3TIC), durant le semestre 6 de l’année universitaire 2024/2025, le module transversal "UE Communication, Culture et Citoyenneté F3" ou bien la matière "CCC F3" comprend un seul module :
+-CCC F3 (42 heures, période 2, 3 ECTS).
+Ce module contribue au développement des compétences de communication, de réflexion éthique et d’engagement citoyen.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+A3/A4 : Modules en Anglais, années 3 et 4.
+F3/F4 : Modules en Français, années 3 et 4.
+TIC : Technologies de l’Information et de la Communication.
+Télécom : Spécialité Télécommunications.
+En quatrième année du parcours Télécom (4Télécom), la formation est répartie sur deux semestres, totalisant 60 crédits ECTS pour environ 717 heures d’enseignement. Elle met l’accent sur l’approfondissement des compétences en réseaux, transmission, analyse de données, gestion de projet et innovation, tout en intégrant une première expérience professionnelle.
+*Au semestre 7, les étudiants suivent huit UE principales :
+- L’UE Cellular Networks & Transmission comprend deux modules techniques pour un total de 84 heures, permettant d’obtenir 6 crédits ECTS.
+- L’UE Réseaux et Services Intelligents 1 propose deux modules pour 42 heures d’enseignement, attribuant 4 crédits ECTS.
+- L’UE Technologies Backend contient un module unique de 42 heures, équivalant à 3 crédits ECTS.
+- L’UE Recherche Opérationnelle regroupe deux modules mathématiques appliqués pour un total de 42 heures, valant 3 crédits ECTS.
+- L’UE Data Analytics 1 comprend deux modules pour une charge de 63 heures, apportant 5 crédits ECTS.
+- L’UE Communication, Culture et Citoyenneté F4 contient un module transversal de 42 heures, correspondant à 2 crédits ECTS.
+- L’UE Optionnelle propose deux modules au choix, représentant ensemble 63 heures pour un total de 4 crédits ECTS.
+- L’UE Stage permet une première immersion professionnelle, avec un stage de 30 heures équivalant à 3 crédits ECTS.
+*Au semestre 8, la formation se poursuit avec cinq unités d’enseignement et deux blocs optionnels :
+- L’UE Management et Pilotage de Projet regroupe trois modules, totalisant 51 heures pour 4 crédits ECTS.
+- Un module complémentaire "Atelier Créativité" est proposé pour 21 heures, apportant 1 ECTS.
+- Deux blocs de modules optionnels permettent de personnaliser le parcours : Bloc 1 (42 heures, 4 ECTS) et Bloc 2 (90 heures, 8 ECTS).
+- L’UE Communication, Culture et Citoyenneté A4 comprend un module transversal de 42 heures, attribuant 3 crédits ECTS.
+- L’UE Projet d’Intégration contient un projet collaboratif appliqué de 84 heures, équivalant à 8 crédits ECTS.
+Ces enseignements préparent les étudiants à la transition vers la spécialisation de dernière année, tout en consolidant leurs compétences techniques, managériales et citoyennes.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F4/A4 : Modules en Français/Anglais, année 4.
+Télécom : Parcours Télécommunications.
+En quatrième année du parcours Télécom (4Télécom), durant le semestre 7 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Cellular Networks & Transmission" comprend deux modules techniques :
+-Cellular Networks 1 (42 heures, périodes 1 et 2, 3 ECTS),
+-Systèmes de Transmission et Traitement du Signal (42 heures, périodes 1 et 2, 3 ECTS).
+Cette UE totalise 84 heures pour un total de 6 crédits ECTS.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F4/A4 : Modules en Français/Anglais, année 4.
+Télécom : Parcours Télécommunications.
+En quatrième année du parcours Télécom (4Télécom), durant le semestre 7 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Réseaux et Services Intelligents 1" comprend deux modules :
+-Network IT-zation (21 heures, période 1, 2 ECTS),
+-Technologies WAN (21 heures, période 2, 2 ECTS).
+Cette UE regroupe 42 heures d’enseignement pour 4 ECTS.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F4/A4 : Modules en Français/Anglais, année 4.
+Télécom : Parcours Télécommunications.
+En quatrième année du parcours Télécom (4Télécom), durant le semestre 7 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Technologies Backend" comprend un seul module :
+-Technologies Backend (42 heures, périodes 1 et 2, 3 ECTS).
+Cette UE apporte des compétences en programmation côté serveur et gestion d’API.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F4/A4 : Modules en Français/Anglais, année 4.
+Télécom : Parcours Télécommunications.
+En quatrième année du parcours Télécom (4Télécom), durant le semestre 7 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Recherche Opérationnelle" comprend deux modules mathématiques appliqués :
+-Programmation Linéaire (21 heures, période 1, 1.5 ECTS),
+-Graphes & Applications (21 heures, période 1, 1.5 ECTS).
+La charge totale est de 42 heures pour 3 ECTS.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F4/A4 : Modules en Français/Anglais, année 4.
+Télécom : Parcours Télécommunications.
+En quatrième année du parcours Télécom (4Télécom), durant le semestre 7 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Data Analytics 1" comprend deux modules :
+-Machine Learning (42 heures, périodes 1 et 2, 3 ECTS),
+-Big Data (21 heures, période 2, 2 ECTS).
+La charge horaire totale est de 63 heures pour un total de 5 ECTS.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F4/A4 : Modules en Français/Anglais, année 4.
+Télécom : Parcours Télécommunications.
+En quatrième année du parcours Télécom (4Télécom), durant le semestre 7 de l’année universitaire 2024/2025, l’unité transversale "UE Communication, Culture et Citoyenneté F4" comprend :
+-CCC F4 (42 heures, périodes 1 et 2, 2 ECTS).
+Ce module vise à développer les compétences d’expression, de citoyenneté et de communication professionnelle.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F4/A4 : Modules en Français/Anglais, année 4.
+Télécom : Parcours Télécommunications.
+En quatrième année du parcours Télécom (4Télécom), durant le semestre 7 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Optionnelle" offre deux modules au choix :
+-Module optionnel 1 (21 heures, période 1, 2 ECTS),
+-Module optionnel 2 (42 heures, périodes 1 et 2, 2 ECTS).
+Cette UE totalise 63 heures pour 4 ECTS.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F4/A4 : Modules en Français/Anglais, année 4.
+Télécom : Parcours Télécommunications.
+En quatrième année du parcours Télécom (4Télécom), durant le semestre 7 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Stage" correspond à une première expérience en entreprise :
+-Stage d’immersion en entreprise (30 heures, périodes 1 et 2, 3 ECTS).
+Ce stage permet de mettre en pratique les compétences acquises en milieu professionnel réel.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+A3/A4 : Modules en Anglais, années 3 et 4.
+F3/F4 : Modules en Français, années 3 et 4.
+TIC : Technologies de l’Information et de la Communication.
+Télécom : Spécialité Télécommunications.
+En quatrième année du parcours Télécom (4Télécom), durant le semestre 8 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Management et Pilotage de Projet" comprend trois modules :
+-Innovation et Entrepreneuriat – Idéation (21 heures, période 1, 1,5 ECTS),
+-Gestion de Projet (21 heures, période 2, 2 ECTS),
+-Droit de la propriété intellectuelle (9 heures, période 1, 0,5 ECTS).
+Ce bloc totalise 51 heures pour un total de 4 crédits ECTS. Il vise à développer les capacités de gestion, d’innovation et de compréhension juridique dans les projets technologiques.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+Télécom : Spécialité Télécommunications.
+En quatrième année du parcours Télécom (4Télécom), durant le semestre 8 de l’année universitaire 2024/2025, un module complémentaire intitulé "Innovation et Entrepreneuriat – Atelier Créativité" est proposé :
+-Atelier Créativité (21 heures, période 2, 1 ECTS).
+Ce module favorise l’émergence d’idées novatrices et leur transformation en projets concrets, en lien avec la culture entrepreneuriale.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+Télécom : Spécialité Télécommunications.
+En quatrième année du parcours Télécom (4Télécom), durant le semestre 8 de l’année universitaire 2024/2025, deux blocs de modules optionnels permettent aux étudiants de personnaliser leur parcours :
+-Bloc 1 : 42 heures au total (modules de 21 heures, 4 ECTS),
+-Bloc 2 : 90 heures au total (modules de 30 heures chacun, 8 ECTS).
+Les étudiants peuvent choisir des thématiques selon leurs affinités professionnelles ou techniques.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+A4 : Module en Anglais, année 4.
+Télécom : Spécialité Télécommunications.
+En quatrième année du parcours Télécom (4Télécom), durant le semestre 8 de l’année universitaire 2024/2025, le module transversal "UE Communication, Culture et Citoyenneté A4" ou bien la matière "CCC A4" est dispensé sur 42 heures pendant les périodes 1 et 2. Ce module permet de valider 3 crédits ECTS et vise à renforcer la communication professionnelle, la culture citoyenne et les compétences linguistiques en anglais.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+Télécom : Spécialité Télécommunications.
+En quatrième année du parcours Télécom (4Télécom), durant le semestre 8 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Projet d’Intégration" est composée d’un seul module appliqué :
+-Projet d’Intégration (84 heures, périodes 1 et 2, 8 ECTS).
+Ce projet collaboratif vise à mobiliser l’ensemble des compétences acquises pour résoudre un cas réel ou proposer une solution innovante, dans un cadre professionnel simulé.
+
+En cinquième année du parcours Télécom (5Télécom), la formation est structurée en deux semestres, totalisant 60 crédits ECTS pour environ 372 heures d’enseignement (hors travail personnel et présence en entreprise). L’année est marquée par un accent sur la professionnalisation, les réseaux du futur, le management des télécoms, les enjeux durables et les projets de fin d’études.
+*Au semestre 9, les étudiants suivent sept unités d’enseignement principales :
+-L’UE Management des Télécoms comprend deux modules totalisant 30 heures, permettant d’obtenir 4 crédits ECTS.
+-L’UE Future Networks propose deux modules émergents sur les nouvelles technologies réseau, pour 30 heures et 4 crédits ECTS.
+-L’UE Préparation à la vie professionnelle regroupe deux modules pour un total de 30 heures, valant 3 crédits ECTS.
+-L’UE Développement durable comprend deux modules pour une charge de 30 heures et 2 crédits ECTS.
+-L’UE Optionnelle permet aux étudiants de personnaliser leur parcours à travers deux modules, représentant 51 heures pour 5 crédits ECTS.
+-L’UE Cellular Networks Certification contient un module de certification 5G, d’une durée de 21 heures pour 2 crédits ECTS.
+-L’UE Stage Ingénieur est un stage de 30 heures en entreprise, équivalant à 5 crédits ECTS.
+*Au semestre 10, les étudiants consacrent l’intégralité de leur temps à :
+-L’UE Projet de Fin d’Études (PFE), soit un projet appliqué de 99 heures (réalisé en entreprise ou en laboratoire), représentant 30 crédits ECTS. Ce projet marque la synthèse des compétences acquises durant le cursus.
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+A3/A4 : Modules en Anglais, années 3 et 4.
+F3/F4 : Modules en Français, années 3 et 4.
+TIC : Technologies de l’Information et de la Communication.
+Télécom : Spécialité Télécommunications.
+En cinquième année du parcours Télécom (5Télécom), durant le semestre 9 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Management des Télécoms" comprend deux modules :
+-Marketing digital (21 heures, périodes 1 et 2, 3 ECTS),
+-Régulation des télécoms (9 heures, période 2, 1 ECTS).
+La charge horaire totale est de 30 heures pour un total de 4 crédits ECTS. Cette UE vise à maîtriser les stratégies de marché et la régulation dans le domaine des télécoms.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+Télécom : Spécialité Télécommunications.
+En cinquième année du parcours Télécom (5Télécom), durant le semestre 9 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Future Networks" comprend deux modules complémentaires :
+-Next-Generation Networks (15 heures, période 2, 2 ECTS),
+-Séminaires (Blockchain, IA for CyberOp) (15 heures, période 2, 2 ECTS).
+L’ensemble totalise 30 heures d’enseignement pour 4 crédits ECTS. Cette UE permet d’explorer les technologies émergentes des réseaux du futur.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+Télécom : Spécialité Télécommunications.
+En cinquième année du parcours Télécom (5Télécom), durant le semestre 9 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Préparation à la vie professionnelle" comprend deux modules :
+-Compétences personnelles F (15 heures, période 1, 1,5 ECTS),
+-Compétences personnelles A (15 heures, période 2, 1,5 ECTS).
+Ce bloc représente 60 heures d’activités encadrées pour un total de 3 crédits ECTS et prépare les étudiants à la transition vers la vie active.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+Télécom : Spécialité Télécommunications.
+En cinquième année du parcours Télécom (5Télécom), durant le semestre 9 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Développement durable" comprend deux modules :
+-Responsabilité Sociétale des Entreprises (15 heures, période 1, 1 ECTS),
+-Certification SDG (15 heures, période 1, 1 ECTS).
+Cette UE de 30 heures permet d’acquérir 2 crédits ECTS et de sensibiliser aux enjeux du développement durable dans le secteur des télécommunications.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+Télécom : Spécialité Télécommunications.
+En cinquième année du parcours Télécom (5Télécom), durant le semestre 9 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Optionnelle" comprend deux modules au choix :
+-Module optionnel 1 (30 heures, périodes 1 et 2, 3 ECTS),
+-Module optionnel 2 (21 heures, périodes 1 et 2, 2 ECTS).
+Ce bloc de 51 heures permet une personnalisation du parcours avec un total de 5 crédits ECTS.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+Télécom : Spécialité Télécommunications.
+En cinquième année du parcours Télécom (5Télécom), durant le semestre 9 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Cellular Networks Certification" comprend un seul module certifiant :
+-Certification HCIA–5G (21 heures, période 2, 2 ECTS).
+Cette UE permet l’obtention d’une certification technique reconnue dans les télécommunications.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+Télécom : Spécialité Télécommunications.
+En cinquième année du parcours Télécom (5Télécom), durant le semestre 9 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Stage Ingénieur" est constituée d’un stage professionnel :
+-Stage Ingénieur (30 heures, périodes 1 et 2, 5 ECTS).
+Ce stage constitue une première immersion professionnelle permettant de valider les compétences de terrain.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+Télécom : Spécialité Télécommunications.
+En cinquième année du parcours Télécom (5Télécom), durant le semestre 10 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Projet de Fin d’Études (PFE)" est composée d’un seul projet long :
+-Projet de Fin d’Études (PFE) (99 heures, période variable, 30 ECTS).
+Ce projet constitue l’aboutissement du parcours d’ingénieur. Il mobilise les compétences techniques, scientifiques et professionnelles acquises au cours de la formation pour résoudre une problématique concrète en entreprise ou en laboratoire.

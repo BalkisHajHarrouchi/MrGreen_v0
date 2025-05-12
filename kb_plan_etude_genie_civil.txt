@@ -1,0 +1,681 @@
+Le parcours Génie Civil (GC) s'étale sur cinq années, avec deux semestres par an, totalisant 60 ECTS annuels. Il combine enseignements scientifiques, techniques, projets appliqués et compétences transversales.
+- **1GC** : Bases en mathématiques, physique, programmation, développement durable et communication (681h).
+- **2GC** : Approfondissement en matériaux, mécanique, topographie et stage humain (696h).
+- **3GC** : Focus sur structures, fondations, analyse de données et projets techniques (717h).
+- **4GC** : Spécialisation en ouvrages, routes, résolution numérique, avec stage et option (723h).
+- **5GC** : Professionnalisation via technologies innovantes, PFE et immersion en entreprise (207h + PFE).
+L'ensemble vise à former des ingénieurs complets, adaptés aux défis du bâtiment et des infrastructures modernes.
+
+
+
+En première année du parcours Génie Civil (1GC), la formation est répartie sur deux semestres, pour un total de 60 crédits ECTS et 681 heures d’enseignement. Chaque semestre est organisé autour d’unités d’enseignement (UE) composées de modules complémentaires, assurant un équilibre entre théorie, pratique et projets intégrés.
+Au semestre 1, les étudiants suivent cinq UE :
+-L’UE Mathématiques de base 1 comprend un seul module de 84 heures, permettant d’acquérir 8 crédits ECTS.
+-L’UE d’initiation à la recherche documentaire et à la logique de programmation regroupe quatre modules totalisant 84 heures et 6 crédits ECTS.
+-L’UE Aménagement Urbain et Développement Durable associe trois modules pour une charge de 84 heures et 7 crédits ECTS.
+-L’UE Physique Chimie propose deux modules fondamentaux, pour un total de 42 heures et 4 crédits ECTS.
+-L’UE Communication, Culture et Citoyenneté F1 comporte deux modules transversaux, d’une durée de 57 heures et d’une valeur de 5 crédits ECTS.
+Au semestre 2, les étudiants poursuivent avec cinq nouvelles UE :
+-L’UE Mathématiques de base 2 contient un module unique de 84 heures pour 8 crédits ECTS.
+-L’UE Mécanique computationnelle se compose de trois modules pour un total de 84 heures et 7 crédits ECTS.
+-L’UE Introduction au Génie Civil regroupe deux modules spécialisés de 72 heures, pour 5 crédits ECTS.
+-L’UE Projet Bâtiment Intelligent propose deux modules innovants répartis sur 63 heures, attribuant 6 crédits ECTS.
+-L’UE Communication, Culture et Citoyenneté A1 comprend un seul module de 42 heures, apportant 4 crédits ECTS.
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En première année du parcours Génie Civil (1GC), durant le semestre 1 de l'année universitaire 2024/2025, le panier pédagogique intitulé " UE Mathématiques de base 1 " ou bien  Unité d’Enseignement " Mathématiques de base 1 " ou bien la matière " Mathématiques de base 1 " comprend un seul module nommé Mathématiques de base 1, dispensé sur 84 heures pendant la période 1. Cet enseignement permet de valider 8 crédits ECTS et vise à consolider les fondements nécessaires à l’analyse et à la modélisation des phénomènes techniques dans le domaine du génie civil.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En première année du parcours Génie Civil (1GC), durant le semestre 1 de l'année universitaire 2024/2025, l’unité d’enseignement " UE d’initiation à la recherche documentaire et à la logique de programmation " ou bien  Unité d’Enseignement " UE d’initiation à la recherche documentaire et à la logique de programmation " ou bien la matière " UE d’initiation à la recherche documentaire et à la logique de programmation " propose un ensemble structuré de quatre modules :
+-Algorithmique (21 heures, période 1, 2 ECTS),
+-Techniques Multimédia (21 heures, période 2, 1 ECTS),
+-Édition de documents (21 heures, période 2, 1 ECTS),
+-Projet bibliographique – informatique appliquée au GC (21 heures, période 2, 2 ECTS).
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En première année du parcours Génie Civil (1GC), durant le semestre 1 de l'année universitaire 2024/2025, l’ensemble pédagogique intitulé " UE Aménagement Urbain et Développement Durable "   ou bien  Unité d’Enseignement " UE Aménagement Urbain et Développement Durable " ou bien la matière " UE Aménagement Urbain et Développement Durable " regroupe 84 heures d’enseignement, réparties entre :
+-Dessin Technique (21 heures, période 1, 1.5 ECTS),
+-Architecture et lecture de plans (21 heures, période 1, 1.5 ECTS),
+-Projet Aménagement Urbain et Développement Durable (42 heures, période 1, 4 ECTS).
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En première année du parcours Génie Civil (1GC), durant le semestre 1 de l'année universitaire 2024/2025, le regroupement thématique " UE Physique Chimie " ou bien le panier " UE Physique Chimie "  ou bien  Unité d’Enseignement " UE Physique Chimie " ou bien la matière " UE Physique Chimie " est constitué de deux modules scientifiques fondamentaux :
+-Circuits électriques (21 heures, période 1, 2 ECTS),
+-Chimie (21 heures, période 1, 2 ECTS).
+La charge horaire globale de cette unité est de 42 heures et l’ensemble permet d’obtenir 4 crédits ECTS, essentiels à la compréhension des phénomènes physiques et chimiques rencontrés en génie civil.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En première année du parcours Génie Civil (1GC), durant le semestre 1 de l'année universitaire 2024/2025, le panier transversal " UE Communication, Culture et Citoyenneté F1 "  ou bien  Unité d’Enseignement " UE Communication, Culture et Citoyenneté F1 " ou bien la matière " UE Communication, Culture et Citoyenneté F1 " intègre deux modules complémentaires :
+-CCC F1 (42 heures, période 1, 4 ECTS),
+-APP0 – Approche par Projet 0 (15 heures, période 1, 1 ECTS).
+Le volume horaire cumulé de 57 heures vise à développer l’expression, la culture citoyenne
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En première année du parcours Génie Civil (1GC), durant le semestre 1 de l'année universitaire 2024/2025, l’ensemble des unités pédagogiques proposées totalise 336 heures d’enseignement, réparties sur une période de 14 semaines, avec une charge moyenne de 24 heures par semaine. À l’issue de ce semestre, les étudiants obtiennent un total de 30 crédits ECTS, conformément aux standards du système LMD.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En deuxième année du parcours Génie Civil (2GC), la formation est organisée sur deux semestres, totalisant 60 crédits ECTS et 696 heures d’enseignement. Chaque semestre comprend plusieurs unités d’enseignement (UE) structurées en modules complémentaires permettant de renforcer les bases scientifiques et les compétences appliquées.
+Au semestre 3 (2GC – semestre impair), les étudiants suivent six UE :
+– L’UE Mathématiques de base 3 contient un seul module de 84 heures pour 8 ECTS.
+– L’UE Matériaux regroupe quatre modules totalisant 99 heures pour 6 ECTS.
+– L’UE Construction durable inclut trois modules pour une charge de 63 heures et 5 ECTS.
+– L’UE Physique appliquée propose trois modules scientifiques sur 63 heures, équivalant à 4 ECTS.
+– L’UE Communication, Culture et Citoyenneté A2 comprend un seul module de 42 heures pour 5 ECTS.
+– L’UE Stages 1 correspond à un stage de formation humaine et sociale pour 2 ECTS (charge horaire non précisée).
+La charge horaire globale du semestre 3 est de 360 heures, avec une moyenne hebdomadaire de 25,7 heures.
+Au semestre 4 (2GC – semestre pair), les étudiants poursuivent avec six nouvelles UE :
+– L’UE Mathématiques de base 4 comprend deux modules pour un total de 105 heures et 10 ECTS.
+– L’UE Mesures et Topographie regroupe deux modules pour 66 heures et 4 ECTS.
+– L’UE Projet Associatif & Collaboratif est composée d’un seul module de 9 heures pour 2 ECTS.
+– L’UE Mécanique associe deux modules techniques pour 72 heures et 5 ECTS.
+– L’UE Physique du bâtiment totalise 42 heures à travers deux modules, pour 4 ECTS.
+– L’UE Communication, Culture et Citoyenneté F2 est constituée d’un module de 42 heures pour 5 ECTS.
+La charge horaire du semestre 4 est de 336 heures, avec une moyenne hebdomadaire de 24 heures.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En deuxième année du parcours Génie Civil (2GC), durant le semestre 3 de l’année universitaire 2024/2025, le panier pédagogique intitulé "UE Mathématiques de base 3" ou bien l’unité d’enseignement "Mathématiques de base 3" ou encore la matière "Mathématiques de base 3" comprend un seul module de 84 heures, dispensé durant la période 1. Cet enseignement permet de valider 8 crédits ECTS et vise à renforcer les outils mathématiques avancés utilisés dans les domaines de l’ingénierie du bâtiment et des structures.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+GC : Génie Civil, filière du programme ingénieur.
+En deuxième année du parcours Génie Civil (2GC), durant le semestre 3 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Matériaux" ou bien la matière "Matériaux" regroupe quatre modules complémentaires totalisant 99 heures d’enseignement. Elle comprend :
+-Matériaux de construction (42 heures, période 1, 3 ECTS),
+-TP matériaux de construction (21 heures, période 2, 1 ECTS),
+-Métallurgie (visite) (21 heures, période 2, 1 ECTS),
+-Géologie de l’ingénieur (15 heures, période 1, 1 ECTS).
+Cette UE permet de valider 6 crédits ECTS et fournit une base solide pour comprendre le comportement des matériaux dans les ouvrages de génie civil.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+GC : Génie Civil, filière du programme ingénieur.
+En deuxième année du parcours Génie Civil (2GC), durant le semestre 3 de l’année universitaire 2024/2025, le panier pédagogique "UE Construction durable" ou bien l’unité d’enseignement "Construction durable" est composé de trois modules répartis sur un total de 63 heures :
+-Systèmes d’Information Géographique (21 heures, période 1, 1 ECTS),
+-Réseaux urbains (21 heures, période 2, 1 ECTS),
+-Projet Construction Durable et Environnement (21 heures, période 2, 3 ECTS).
+-Cette UE permet de valider 5 crédits ECTS et initie les étudiants aux enjeux environnementaux et aux outils numériques d’analyse territoriale.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+GC : Génie Civil, filière du programme ingénieur.
+En deuxième année du parcours Génie Civil (2GC), durant le semestre 3 de l’année universitaire 2024/2025, le regroupement thématique "UE Physique appliquée" ou bien la matière "Physique appliquée" totalise 63 heures et se compose des modules suivants :
+-Thermodynamique (21 heures, période 1, 1 ECTS),
+-Vibrations mécaniques (21 heures, période 2, 1 ECTS),
+-Transfert de chaleur (30 heures, période 1, 2 ECTS).
+L’ensemble de ces enseignements permet de valider 4 crédits ECTS, apportant aux étudiants les connaissances physiques nécessaires à la simulation thermique et vibratoire des structures.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+A2 : Module en Anglais, année 2.
+GC : Génie Civil, filière du programme ingénieur.
+En deuxième année du parcours Génie Civil (2GC), durant le semestre 3 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Communication, Culture et Citoyenneté A2" ou bien la matière "CCC A2" comprend un module transversal dispensé sur 42 heures pendant la période 1. Ce module permet d’acquérir 5 crédits ECTS et contribue au développement de la communication professionnelle en anglais, à la culture internationale et aux compétences citoyennes des futurs ingénieurs.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+GC : Génie Civil, filière du programme ingénieur.
+En deuxième année du parcours Génie Civil (2GC), durant le semestre 3 de l’année universitaire 2024/2025, le panier "UE Stages 1" ou bien la matière "Stage de formation humaine et sociale" correspond à une unité d’enseignement dédiée à l’expérience en milieu humain ou associatif. Il est réalisé pendant la période 2 et permet de valider 2 crédits ECTS. Ce stage contribue à l’ouverture sociale, à l’engagement citoyen et à la responsabilité professionnelle des étudiants ingénieurs.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+GC : Génie Civil, filière du programme ingénieur.
+En deuxième année du parcours Génie Civil (2GC), durant le semestre 4 de l’année universitaire 2024/2025, le panier pédagogique "UE Mathématiques de base 4" ou bien l’unité d’enseignement "Mathématiques de base 4" ou encore la matière "Mathématiques de base 4" comprend deux modules totalisant 105 heures. Il s’agit de :
+-Mathématiques de base 4 (84 heures, période 1, 8 ECTS),
+-Atelier de Mathématiques Appliquées (21 heures, période 2, 2 ECTS).
+L’ensemble permet de valider 10 crédits ECTS et d’approfondir les outils d’analyse nécessaires aux problématiques d’ingénierie structurelle et numérique.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+GC : Génie Civil, filière du programme ingénieur.
+En deuxième année du parcours Génie Civil (2GC), durant le semestre 4 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Mesures et Topographie" ou bien le regroupement "Mesures et Topographie" comprend deux modules complémentaires :
+-Topographie (avec TP) (36 heures, période 1, 2 ECTS),
+-Mesures et instrumentation (30 heures, période 2, 2 ECTS).
+Le total de 66 heures permet de valider 4 crédits ECTS et d’acquérir les compétences techniques de relevés topographiques et de mesures appliquées au chantier.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+GC : Génie Civil, filière du programme ingénieur.
+En deuxième année du parcours Génie Civil (2GC), durant le semestre 4 de l’année universitaire 2024/2025, le regroupement intitulé "UE Projet Associatif & Collaboratif" ou bien la matière "Projet Associatif & Collaboratif" se compose d’un seul module :
+-Projet Associatif & Collaboratif (9 heures, période non précisée, 2 ECTS).
+Il s’agit d’un projet encadré favorisant le travail en équipe, la gestion de projet et l’engagement dans un cadre associatif ou citoyen.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+GC : Génie Civil, filière du programme ingénieur.
+En deuxième année du parcours Génie Civil (2GC), durant le semestre 4 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Mécanique" ou bien la matière "Mécanique" totalise 72 heures réparties entre deux modules fondamentaux :
+-Mécanique des fluides (30 heures, période 1, 2 ECTS),
+-Résistance des matériaux (42 heures, période 1, 3 ECTS).
+Cet ensemble permet de valider 5 crédits ECTS et développe des compétences essentielles pour l’analyse des efforts internes et des écoulements dans les structures.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+GC : Génie Civil, filière du programme ingénieur.
+En deuxième année du parcours Génie Civil (2GC), durant le semestre 4 de l’année universitaire 2024/2025, le regroupement "UE Physique du bâtiment" ou bien l’unité d’enseignement "Physique du bâtiment" comprend deux modules totalisant 42 heures :
+-Physique du bâtiment (21 heures, période 1, 1 ECTS),
+-Projet Physique du bâtiment (21 heures, période 2, 3 ECTS).
+Ce bloc permet de valider 4 crédits ECTS et traite des phénomènes thermiques et énergétiques appliqués aux bâtiments.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F2 : Module en Français, année 2.
+GC : Génie Civil, filière du programme ingénieur.
+En deuxième année du parcours Génie Civil (2GC), durant le semestre 4 de l’année universitaire 2024/2025, l’unité d’enseignement "UE Communication, Culture et Citoyenneté F2" ou bien la matière "CCC F2" comprend un seul module de 42 heures, dispensé pendant la période 1. Cette unité permet de valider 5 crédits ECTS et vise à renforcer les compétences en communication écrite et orale en français, ainsi que la compréhension des enjeux sociétaux et culturels.
+
+
+
+Résumé du plan d’études – Troisième année Génie Civil (3GC) – Année universitaire 2024/2025
+En troisième année du parcours Génie Civil (3GC), la formation est répartie sur deux semestres : semestre 5 et semestre 6, avec une organisation modulaire autour d’unités d’enseignement (UE). Chaque UE regroupe plusieurs modules ou matières pédagogiquement liés, permettant d'approfondir les compétences techniques, scientifiques et professionnelles. La charge annuelle est de 717 heures d’enseignement (HE) pour un total de 60 crédits ECTS.
+*Semestre 5 (363 HE – 30 ECTS) :
+Ce semestre est dédié à l’approfondissement des savoirs en mathématiques appliquées, mécanique du génie civil, technologies des matériaux et structures, et communication professionnelle.
+Il comprend 6 UE :
+-Mathématiques Appliquées (63 HE, 6 ECTS)
+-Mécanique appliquée au GC (63 HE, 6 ECTS)
+-Mécanique des sols (54 HE, 5 ECTS)
+-Techniques de Construction (99 HE, 8 ECTS)
+-Homogénéisation (42 HE, 2 ECTS)
+-Communication, Culture et Citoyenneté A3 (42 HE, 3 ECTS)
+*Semestre 6 (354 HE – 30 ECTS) :
+Il renforce les compétences en analyse des données, conception des structures, gestion de projets, fondations, et intègre un projet de bâtiment.
+Il est composé de 7 UE :
+-Analyse des données (72 HE, 6 ECTS)
+-Fondations et Soutènements (51 HE, 5 ECTS)
+-Calcul et Conception des Structures (105 HE, 8 ECTS)
+-Management de l’entreprise (42 HE, 3 ECTS)
+-Communication, Culture et Citoyenneté F3 (42 HE, 3 ECTS)
+-Projet Structures de Bâtiments (42 HE, 5 ECTS)
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En troisième année du parcours Génie Civil (3GC), durant le semestre 5 de l'année universitaire 2024/2025, le regroupement intitulé "UE Mathématiques Appliquées" ou bien Unité d’Enseignement "Mathématiques Appliquées" ou bien la matière "Mathématiques Appliquées" comprend deux modules :
+-Mathématiques pour l’ingénieur (42 heures, période 1, 3.5 ECTS)
+-Recherche Opérationnelle (21 heures, période 2, 2.5 ECTS)
+La charge totale de cette UE est de 63 HE pour 6 ECTS.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En troisième année du parcours Génie Civil (3GC), durant le semestre 5 de l'année universitaire 2024/2025, l’UE intitulée "Mécanique appliquée au GC" ou bien la matière "Mécanique appliquée au GC" comprend deux modules :
+-Mécanique des solides déformables (21 heures, période 1, 2 ECTS)
+-Théorie des structures (42 heures, période 1, 4 ECTS)
+Le total horaire est de 63 HE pour un total de 6 ECTS.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En troisième année du parcours Génie Civil (3GC), durant le semestre 5 de l'année universitaire 2024/2025, l’unité d’enseignement "UE Mécanique des sols" ou bien le regroupement pédagogique "UE Mécanique des sols" ou bien la matière "UE Mécanique des sols" comprend deux modules :
+-Mécanique des sols (42 heures, période 2, 4 ECTS)
+-TP Mécanique des sols (12 heures, période 1, 1 ECTS)
+La charge horaire totale de cette UE est de 54 heures, pour une valorisation de 5 crédits ECTS. Elle vise à introduire les principes fondamentaux liés au comportement des sols, indispensables pour l’analyse géotechnique des ouvrages.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En troisième année du parcours Génie Civil (3GC), durant le semestre 5 de l'année universitaire 2024/2025, l’unité d’enseignement "UE Techniques de construction" ou bien la matière "UE Techniques de construction" ou bien le panier pédagogique "UE Techniques de construction" regroupe trois modules :
+-Béton armé (42 heures, période 1, 4 ECTS)
+-TP Béton armé (15 heures, période 2, 1 ECTS)
+-Construction Métallique et Mixte (42 heures, période 2, 3 ECTS)
+La charge horaire de cette UE s’élève à 99 heures et permet l’acquisition de 8 crédits ECTS. Elle apporte aux étudiants les compétences nécessaires en dimensionnement, exécution et vérification des structures en béton et métal.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En troisième année du parcours Génie Civil (3GC), durant le semestre 5 de l'année universitaire 2024/2025, l’unité d’enseignement "UE Homogénéisation" ou bien la matière "UE Homogénéisation" comprend un module unique :
+-RDM / SDGs / Math appliquées (42 heures, période non précisée, 2 ECTS)
+Ce module vise à consolider les bases transversales en résistance des matériaux, développement durable et mathématiques appliquées à l’ingénierie. L’unité permet de valider 2 crédits ECTS.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En troisième année du parcours Génie Civil (3GC), durant le semestre 5 de l'année universitaire 2024/2025, l’unité d’enseignement "UE Communication, Culture et Citoyenneté A3" ou bien la matière "UE CCC A3" contient un seul module :
+-CCC A3 (42 heures, période 1, 3 ECTS)
+Ce module de langue anglaise contribue à développer la communication professionnelle dans un contexte international et interculturel. L’UE totalise 3 crédits ECTS.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En troisième année du parcours Génie Civil (3GC), durant le semestre 6 de l'année universitaire 2024/2025, l’unité d’enseignement "UE Analyse des données" ou bien la matière "UE Analyse des données" ou encore le regroupement pédagogique "UE Analyse des données" propose trois modules :
+-Probabilité & Statistiques (30 heures, période 1, 3 ECTS)
+-Atelier Intelligence Artificielle (21 heures, période 2, 2 ECTS)
+-Base de données (21 heures, période 1, 1 ECTS)
+La charge horaire totale de cette unité est de 72 heures pour un total de 6 crédits ECTS. Elle développe des compétences numériques et analytiques utiles en modélisation, ingénierie et prise de décision.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En troisième année du parcours Génie Civil (3GC), durant le semestre 6 de l'année universitaire 2024/2025, l’unité d’enseignement "UE Fondations et Soutènements" ou bien la matière "UE Fondations et Soutènements" contient deux modules :
+-Fondations et Soutènements (30 heures, période 1, 3 ECTS)
+-BE Systèmes de Fondation (21 heures, période 1, 2 ECTS)
+Cette UE totalise 51 heures et permet de valider 5 crédits ECTS. Elle vise à maîtriser les bases de la conception des fondations en contexte géotechnique réel.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En troisième année du parcours Génie Civil (3GC), durant le semestre 6 de l'année universitaire 2024/2025, l’unité d’enseignement "UE Calcul et conception des structures" ou bien la matière "UE Conception des structures" regroupe trois modules :
+-Conception et Calcul de Structures en Béton Armé (CCSBA) (42 heures, période 1, 3 ECTS)
+-Conception et Calcul de Structures Métalliques et Mixtes (CCSMM) (42 heures, période 1, 3 ECTS)
+-BE Charpente métallique (21 heures, période 1, 2 ECTS)
+L’unité représente 105 heures de formation pour un total de 8 crédits ECTS. Elle permet d’approfondir les techniques de dimensionnement et d’optimisation des structures selon les matériaux utilisés.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En troisième année du parcours Génie Civil (3GC), durant le semestre 6 de l'année universitaire 2024/2025, l’unité d’enseignement "UE Management de l’entreprise" ou bien le regroupement "UE Management de l’entreprise" contient deux modules :
+-Environnement de l’entreprise (21 heures, période 1, 1,5 ECTS)
+-Analyse et décision financière (21 heures, période 2, 1,5 ECTS)
+Cette UE permet de valider 3 crédits ECTS et développe des compétences en gestion stratégique et financière de projet d’ingénierie.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En troisième année du parcours Génie Civil (3GC), durant le semestre 6 de l'année universitaire 2024/2025, le module transversal "UE Communication, Culture et Citoyenneté F3" ou bien la matière "CCC F3" est enseigné sous forme d’un seul module :
+-CCC F3 (42 heures, période 1, 3 ECTS)
+Ce module de langue française contribue à la formation citoyenne, à l’expression écrite/orale et au développement personnel des futurs ingénieurs.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En troisième année du parcours Génie Civil (3GC), durant le semestre 6 de l'année universitaire 2024/2025, un projet indépendant intitulé "Projet Structures de Bâtiments" ou bien le module "Projet Structures GC" est proposé :
+-Projet Structures de Bâtiments (42 heures, période 1, 5 ECTS)
+Ce module constitue une mise en pratique des compétences acquises tout au long de la formation, autour d’un cas concret de conception structurelle.
+
+Résumé du plan d’études – Quatrième année Génie Civil (4GC) – Année universitaire 2024/2025
+En quatrième année du parcours Génie Civil (4GC), la formation est organisée sur deux semestres : semestre 7 et semestre 8, totalisant 723 heures d’enseignement (HE) pour 60 crédits ECTS. Cette année marque la transition vers des compétences avancées en génie civil, associant projets, spécialisations techniques, stage en entreprise et choix d’options de parcours.
+*Semestre 7 (366 HE – 30 ECTS) :
+Il est dédié au développement des compétences avancées en résolution numérique, structures complexes, routes, ouvrages d’art et intégration professionnelle via un stage en entreprise.
+Il comprend 6 UE :
+-Méthodes de Résolution Numériques (93 HE, 8 ECTS)
+-Béton Précontraint (63 HE, 5 ECTS)
+-Ouvrages d’Art (63 HE, 5 ECTS)
+-Routes & Procédés (105 HE, 6 ECTS)
+-Stages 2 (HE non précisée, 3 ECTS)
+-Communication, Culture et Citoyenneté A4 (42 HE, 3 ECTS)
+*Semestre 8 (357 HE – 30 ECTS) :
+Il permet d’approfondir la gestion de projets, l’hydraulique, le management et la spécialisation à travers un parcours optionnel au choix et un projet technique intégré.
+Il regroupe 6 UE :
+-Hydraulique (72 HE, 5 ECTS)
+-Gestion des projets et impact environnemental (45 HE, 4 ECTS)
+-Management (51 HE, 4 ECTS)
+-Optionnelle (au choix : Structure & Ouvrages ou Ponts & Chaussées) (105 HE, 10 ECTS)
+-Projet Structures & Ouvrages (42 HE, 4 ECTS)
+-Communication, Culture et Citoyenneté F4 (42 HE, 3 ECTS)
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En quatrième année du parcours Génie Civil (4GC), durant le semestre 7 de l’année universitaire 2024/2025, l’unité d’enseignement " UE Méthodes de Résolution Numériques " ou bien la matière " Méthodes de Résolution Numériques " regroupe trois modules complémentaires :
+-Analyse Numérique (42 heures, période 1, 4 ECTS),
+-BE Calcul par Éléments Finis (30 heures, période 2, 2 ECTS),
+-IOT (21 heures, période 1, 2 ECTS).
+Ce regroupement pédagogique totalise 93 heures d’enseignement pour 8 crédits ECTS.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En quatrième année du parcours Génie Civil (4GC), durant le semestre 7 de l’année universitaire 2024/2025, le regroupement thématique " UE Béton Précontraint " comprend deux modules spécialisés :
+-Béton Précontraint (42 heures, période 1, 3 ECTS),
+-BE Béton Précontraint (21 heures, période 1, 2 ECTS).
+Cet ensemble équivaut à 63 heures d’enseignement et permet de valider 5 crédits ECTS.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En quatrième année du parcours Génie Civil (4GC), durant le semestre 7 de l’année universitaire 2024/2025, l’unité d’enseignement " UE Ouvrages d’Art " ou bien la matière " Ouvrages d’Art " comprend deux modules :
+-Ouvrages d’Art (42 heures, période 1, 3 ECTS),
+-BE Ouvrage d’Art (21 heures, période 2, 2 ECTS).
+Le total horaire de 63 heures permet d’acquérir 5 crédits ECTS.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En quatrième année du parcours Génie Civil (4GC), durant le semestre 7 de l’année universitaire 2024/2025, le regroupement pédagogique " UE Routes & Procédés " ou bien la matière " Routes & Procédés " est constitué de quatre modules :
+-Routes (42 heures, période 1, 3 ECTS),
+-Hydrologie (21 heures, période 1, 1 ECTS),
+-PGC – Procédés Généraux de Construction (21 heures, période 2, 1 ECTS),
+-BE Routes (21 heures, période 2, 1 ECTS).
+Ce panier totalise 105 heures pour 6 crédits ECTS.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En quatrième année du parcours Génie Civil (4GC), durant le semestre 7 de l’année universitaire 2024/2025, le regroupement " UE Stages 2 " inclut un module unique :
+-Stage d’immersion en entreprise (ECTS 3, charge horaire non précisée).
+Ce stage vise à offrir une première expérience professionnelle significative et contribue à la validation du semestre.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En quatrième année du parcours Génie Civil (4GC), durant le semestre 7 de l’année universitaire 2024/2025, l’unité d’enseignement " UE Communication, Culture et Citoyenneté A4 " ou bien la matière " CCC F4 " est composée d’un seul module :
+-CCC F4 (42 heures, période 1, 3 ECTS).
+Ce module vise à renforcer les compétences communicationnelles et interculturelles des étudiants en langue anglaise.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En quatrième année du parcours Génie Civil (4GC), durant le semestre 8 de l'année universitaire 2024/2025, le regroupement pédagogique intitulé " UE Hydraulique " ou bien Unité d’Enseignement " Hydraulique " ou bien la matière " Hydraulique " comprend trois modules :
+-Hydraulique Générale (15 heures, période 1, 1 ECTS),
+-Hydraulique Urbaine – Visite (42 heures, période 1, 3 ECTS),
+-BE VRD (15 heures, période 2, 1 ECTS).
+Ce bloc d’enseignement permet de valider un total de 5 crédits ECTS pour 72 heures d’enseignement.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En quatrième année du parcours Génie Civil (4GC), durant le semestre 8 de l'année universitaire 2024/2025, l’unité d’enseignement " UE Gestion des projets et impact environnemental " ou bien la matière " Gestion des projets et impact environnemental " regroupe deux modules :
+-Gestion des projets de construction – Visite (30 heures, période 1, 2.5 ECTS),
+-Impact environnemental des constructions (15 heures, période 1, 1.5 ECTS).
+Ce bloc représente 45 heures d’enseignement pour un total de 4 crédits ECTS.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En quatrième année du parcours Génie Civil (4GC), durant le semestre 8 de l'année universitaire 2024/2025, l’unité d’enseignement " UE Management " ou bien la matière " Management " regroupe deux modules :
+-Innovation et entrepreneuriat (42 heures, période 1, 3 ECTS),
+-Droit de la propriété intellectuelle (9 heures, période 2, 1 ECTS).
+L’ensemble équivaut à 51 heures de formation pour un total de 4 crédits ECTS.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En quatrième année du parcours Génie Civil (4GC), durant le semestre 8 de l'année universitaire 2024/2025, l’unité d’enseignement " UE Optionnelle " permet aux étudiants de choisir entre deux parcours de spécialisation technique, chacun d’une charge de 105 heures pour 10 crédits ECTS :
+-Option Structure & Ouvrages : Dynamique des structures (42 heures, période 1, 4 ECTS), Stabilité des Bâtiments (42 heures, période 1, 4 ECTS), Sols & Ouvrages (21 heures, période 1, 2 ECTS).
+-Option Ponts et Chaussées : Routes et échangeurs (42 heures, période 1, 4 ECTS), Pathologie et maintenance des ponts & chaussées et sécurité routière (42 heures, période 1, 4 ECTS), Ponts et tunnels (21 heures, période 1, 2 ECTS).
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En quatrième année du parcours Génie Civil (4GC), durant le semestre 8 de l'année universitaire 2024/2025, le module " Projet Structures & Ouvrages ", intégré comme unité à part entière, est dispensé sur 42 heures durant la période 1. Ce projet permet de valider 4 crédits ECTS et s’inscrit dans la continuité des spécialisations techniques abordées dans les parcours optionnels.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En quatrième année du parcours Génie Civil (4GC), durant le semestre 8 de l'année universitaire 2024/2025, le module transversal " UE Communication, Culture et Citoyenneté F4 " ou bien la matière " CCC A4 " est composé d’un seul module :
+-CCC A4 (42 heures, période 1, 3 ECTS).
+Ce module vise à renforcer l’expression, la communication professionnelle et les compétences citoyennes de l’ingénieur.
+
+
+
+Résumé du programme 5GC (2024/2025)
+La cinquième année du parcours Génie Civil (5GC) s’organise sur deux semestres et vise à finaliser la formation de l’ingénieur civil à travers des enseignements appliqués, une immersion en entreprise et un projet de fin d’études. L’ensemble de l’année permet de valider 60 crédits ECTS.
+*Semestre 9 – 5GC
+Le semestre 9 comprend 7 unités d’enseignement et totalise 207 heures d’enseignement pour 30 crédits ECTS :
+-UE Pathologie des constructions et risques de travail au GC (51h, 5 ECTS) : QHSE, sécurité BTP, pathologie des constructions.
+-UE Nouvelles Technologies (51h, 5 ECTS) : BIM et Smart City.
+-UE Développement durable et efficacité énergétique (60h, 4 ECTS) : étude énergétique, ressources naturelles, SDGs.
+-UE Optionnelle (projet) (30h, 5 ECTS) : choix entre "Ponts et Chaussées" ou "Structures et Ouvrages".
+-UE Droit et règlements (15h, 3 ECTS) : droit du travail, marchés et règlements.
+-UE Préparation à la vie professionnelle (30h, 3 ECTS) : modules PVP en arabe et en français.
+-UE Stages 3 (charge non précisée, 5 ECTS) : stage ingénieur en entreprise.
+*Semestre 10 – 5GC
+Le semestre 10 est entièrement consacré à l’UE Professionnalisation à travers un Projet de Fin d’Études (PFE), équivalent à 30 crédits ECTS. Ce projet mobilise l’ensemble des compétences acquises pour résoudre une problématique réelle en ingénierie civile.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En cinquième année du parcours Génie Civil (5GC), durant le semestre 9 de l'année universitaire 2024/2025, le regroupement pédagogique intitulé "UE Pathologie des constructions et risques de travail au GC" ou bien la matière "Pathologie des constructions et risques" comprend trois modules :
+-QHSE (Qualité, Hygiène, Sécurité et Environnement) (15 heures, 1,5 ECTS),
+-Sécurité BTP (15 heures, 1,5 ECTS),
+-Pathologie, maintenance et réhabilitation des constructions (21 heures, 2 ECTS).
+La charge horaire totale de cette UE est de 51 heures, pour une valorisation de 5 crédits ECTS.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En cinquième année du parcours Génie Civil (5GC), durant le semestre 9 de l'année universitaire 2024/2025, l'unité d'enseignement "UE Nouvelles Technologies" ou bien le regroupement "Nouvelles Technologies" comprend deux modules innovants :
+-Technologie BIM (30 heures, 3 ECTS),
+-Projet Smart City (21 heures, 2 ECTS).
+Cette unité d’enseignement totalise 51 heures et permet l’obtention de 5 crédits ECTS.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En cinquième année du parcours Génie Civil (5GC), durant le semestre 9 de l'année universitaire 2024/2025, l’unité intitulée "UE Développement durable et efficacité énergétique" regroupe trois modules autour des enjeux environnementaux :
+-Étude énergétique d’un bâtiment (15 heures, 2 ECTS),
+-Professional Applications to Natural Resources (15 heures, 1 ECTS),
+-SDGs (certificat) (30 heures, 1 ECTS).
+La charge totale de cette UE est de 60 heures pour 4 crédits ECTS.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En cinquième année du parcours Génie Civil (5GC), durant le semestre 9 de l'année universitaire 2024/2025, l'unité d'enseignement "UE Optionnelle (projet)" permet à l'étudiant de choisir un domaine de spécialisation :
+-Ponts et Chaussées (30 heures, 5 ECTS),
+-Structures et Ouvrages (30 heures, 5 ECTS).
+Cette UE individualisée est structurée autour d’un projet appliqué de fin de semestre.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En cinquième année du parcours Génie Civil (5GC), durant le semestre 9 de l'année universitaire 2024/2025, le panier "UE Droit et règlements" comprend deux modules juridiques :
+-Droit du travail (6 heures, 1,5 ECTS),
+-Marché et règlements (9 heures, 1,5 ECTS).
+La charge horaire de 15 heures est répartie sur la période 1 et permet d'obtenir un total de 3 crédits ECTS.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En cinquième année du parcours Génie Civil (5GC), durant le semestre 9 de l'année universitaire 2024/2025, l’unité d’enseignement "UE Préparation à la vie professionnelle" comprend deux modules de sensibilisation au monde du travail :
+-PVP A (Préparation à la Vie Professionnelle en Arabe) (15 heures, 1,5 ECTS),
+-PVP F (Préparation à la Vie Professionnelle en Français) (15 heures, 1,5 ECTS).
+Ce bloc totalise 30 heures pour un total de 3 crédits ECTS.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En cinquième année du parcours Génie Civil (5GC), durant le semestre 9 de l'année universitaire 2024/2025, l’unité "UE Stages 3" ou bien le module "Stage Ingénieur" constitue une immersion en milieu professionnel. La charge horaire, bien que non précisée, est équivalente à une UE complète. Cette unité permet de valider 5 crédits ECTS.
+
+UE : Unité d’Enseignement (regroupement de matières liées).
+HE : Heures d’Enseignement (volume horaire d’un module).
+Période 1 : Semaines 1 à 7 ; Période 2 : Semaines 8 à 14.
+ECTS : Crédits européens mesurant la charge de travail étudiante.
+F1/F2/F3/F4 : Module en Français, année 1 à 4.
+A1/A2/A3/A4 : Module en Anglais, année 1 à 4.
+GC : Génie Civil, filière du programme ingénieur.
+En cinquième année du parcours Génie Civil (5GC), durant le semestre 10 de l'année universitaire 2024/2025, l’unité d’enseignement intitulée "UE Professionnalisation" ou bien "Projet de Fin d’Études (PFE)" est consacrée entièrement à un projet individuel :
+-Projet de Fin d’Études (PFE) (charge équivalente à une UE complète, 30 ECTS).
+Cette unité marque la fin du parcours académique en ingénierie civile et représente un travail de synthèse, d’analyse et d’innovation professionnelle.
+
+
+
+
+
+

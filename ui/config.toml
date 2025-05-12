@@ -1,0 +1,6 @@
+[UI]
+input.disabled = true
+hide_cot = true
+
+[theme]
+name = "custom"

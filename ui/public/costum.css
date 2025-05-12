@@ -1,0 +1,16 @@
+/* Hide EVERYTHING except our image */
+body > * {
+    display: none !important;
+}
+
+/* Show only our image element */
+.cl-image {
+    display: block !important;
+}
+
+/* Reset page styles */
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
