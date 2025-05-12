@@ -5,7 +5,7 @@ Ce projet est un assistant intelligent multimodal qui répond aux requêtes util
 ---
 
 ## 🗂️ Structure du projet
-
+```text
 project/
 │
 ├── .env # Variables d’environnement (GROQ_API_KEY, etc.)
@@ -37,8 +37,7 @@ project/
 │
 ├── ui/
 │ └── mainJdid.py # Interface Chainlit (voix, fichiers, TTS toggle)
-
-
+```
 ---
 
 ## 🧠 Fonctionnement intelligent
