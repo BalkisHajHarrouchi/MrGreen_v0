@@ -1,10 +1,9 @@
 # 📚 Multimodal RAG Assistant – ESPRIT
 
-Ce projet est un assistant intelligent multimodal qui répond aux requêtes utilisateurs en utilisant la **RAG (Retrieval-Augmented Generation)**, la **génération d’email automatique**, et la **recherche web intelligente**, le tout orchestré par **LangGraph**.
+This project is a smart **multimodal assistant** that answers user queries using **Retrieval-Augmented Generation (RAG)**, **automatic email generation**, and **intelligent web search**, all orchestrated via **LangGraph**.
 
 ---
 
-## 🗂️ Structure du projet
 ## 📁 Project Structure
 
 ```text
@@ -42,12 +41,12 @@ project/
 
 ---
 
-## 🧠 Fonctionnement intelligent
+## 🧠 Smart Workflow
 
-### 🔀 Entrée multimodale possible :
-- Texte simple
-- Voix (via **Moonshine STT**)
-- Fichiers (supportés) :
+### 🔀 Supported multimodal input:
+- Plain text
+- Voice (via **Moonshine STT**)
+- Files (supported formats):
   - PDF → `pdfplumber`, `pdf2image`
   - DOCX → `docx.Document`
   - Image → `PIL`, `pytesseract`
@@ -55,54 +54,54 @@ project/
 
 ---
 
-## 🚀 Pipeline global
+## 🚀 Global Pipeline
 
-1. **Prétraitement automatique**
-   - Extraction de texte depuis les fichiers selon leur format
-   - Création d’une base **temporaire ChromaDB** avec `sentence-transformers/paraphrase-MiniLM-L6-v2`
+1. **Automatic Preprocessing**
+   - Text extraction based on file type
+   - Creation of a **temporary ChromaDB** using `sentence-transformers/paraphrase-MiniLM-L6-v2`
 
-2. **Routage via LangGraph**
-   - Si Web Search activé :
-     - `web_agent` : recherche avec **DuckDuckGo**
-     - Résumé multi-source avec `sshleifer/distilbart-cnn-12-6`
-   - Sinon :
-     - `rag_agent` :
-       - Si fichier → RAG sur la base temporaire
-       - Sinon → RAG sur la base persistée (`Esprit_kb/`)
-     - Réponses générées via `llama3` (Ollama)
+2. **Routing via LangGraph**
+   - If Web Search is enabled:
+     - `web_agent`: searches using **DuckDuckGo**
+     - Multi-source summarization via `sshleifer/distilbart-cnn-12-6`
+   - Otherwise:
+     - `rag_agent`:
+       - If a file is uploaded → RAG over temporary DB
+       - Else → RAG over persistent DB (`Esprit_kb/`)
+     - Answers generated using `llama3` (Ollama)
 
-3. **📬 Génération d'Email automatique**
-   - Si le prompt contient "je veux un mail" ou "génère un mail"
-   - Agent email génère le message avec `llama3`
-   - Affichage clair, modifiable avant envoi
-   - Envoi via **SMTP**
+3. **📬 Automatic Email Generation**
+   - Triggered if prompt contains "je veux un mail" or "génère un mail"
+   - Email agent generates the message using `llama3`
+   - Clear, editable preview before sending
+   - Sent via **SMTP**
 
-4. **🔊 TTS automatique**
-   - Lecture de la réponse via **gTTS** (si activée)
-
----
-
-## 🤖 Agents LangGraph
-
-| Agent         | Rôle                                                   |
-|---------------|--------------------------------------------------------|
-| `rag_agent`   | Recherche augmentée locale (KB ou fichier)             |
-| `web_agent`   | Recherche Web via **DuckDuckGo** et résumé Bart        |
-| `email_agent` | Génération + envoi d’emails via **llama3** et **SMTP** |
+4. **🔊 Automatic Text-to-Speech (TTS)**
+   - Answers are read aloud using **gTTS** (if enabled)
 
 ---
 
-## ✅ Fonctionnalités clés
+## 🤖 LangGraph Agents
 
-- Multimodalité complète (texte, voix, fichier, image)
-- Recherche augmentée intelligente
-- Résumé web précis basé sur actualité
-- Génération & envoi d’emails utile
-- Lecture vocale intégrée
+| Agent         | Role                                                       |
+|---------------|------------------------------------------------------------|
+| `rag_agent`   | Local augmented search (persistent KB or uploaded file)    |
+| `web_agent`   | Web search via **DuckDuckGo** + summarization (Bart)       |
+| `email_agent` | Email generation + sending using **llama3** and **SMTP**   |
 
 ---
 
-## 🛠️ Technologies
+## ✅ Key Features
+
+- Full multimodality (text, voice, files, images)
+- Smart augmented retrieval
+- Web summarization from live sources
+- Useful email generation & delivery
+- Integrated voice reading (TTS)
+
+---
+
+## 🛠️ Tech Stack
 
 - LangChain + LangGraph
 - Ollama (LLaMA 3)
@@ -114,14 +113,15 @@ project/
 - Google TTS (gTTS)
 - SMTP (Gmail)
 
+
 ---
 
-## 📦 Installation
+## 📦 Setup
 
 ```bash
 pip install -r requirements.txt
 ```
-Configurez vos clés dans .env, puis lancez :
+Then run :
 ```bash
 uvicorn app.main:app --reload
 chainlit run ui/mainJdid.py
