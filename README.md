@@ -5,39 +5,41 @@ Ce projet est un assistant intelligent multimodal qui répond aux requêtes util
 ---
 
 ## 🗂️ Structure du projet
+## 📁 Project Structure
+
 ```text
 project/
-│
-├── .env # Variables d’environnement (GROQ_API_KEY, etc.)
-├── requirements.txt # Dépendances Python (langchain, fastapi, etc.)
-│
+├── .env                        # Environment variables (e.g., GROQ_API_KEY)
+├── requirements.txt           # Python dependencies (langchain, fastapi, etc.)
+
 ├── app/
-│ ├── main.py # Entrypoint FastAPI
-│ ├── config.py # Configuration globale
+│   ├── main.py                # FastAPI entry point
+│   ├── config.py              # Global configuration
 │
-│ ├── api/
-│ │ └── rag.py # Endpoint POST /rag (KB locale)
-│ │ └── web_summary_api.py # Endpoint POST /websummary (recherche web)
+│   ├── api/
+│   │   ├── rag.py             # POST endpoint /rag (local knowledge base)
+│   │   └── web_summary_api.py # POST endpoint /websummary (web summarization)
 │
-│ ├── chains/
-│ │ └── file_chain.py # Ingestion d’un fichier (temp KB)
-│ │ └── rag_chain.py # Recherche RAG locale
-│ │ └── web_summary_chain.py # Résumé multi-source depuis le Web
+│   ├── chains/
+│   │   ├── file_chain.py          # Ingest uploaded file into temporary Chroma DB
+│   │   ├── rag_chain.py           # RAG over persisted Chroma vector DBs
+│   │   └── web_summary_chain.py   # Summarize articles from web using DuckDuckGo
 │
-│ ├── agents/
-│ │ └── langgraph_workflow.py # Graphe LangGraph : Web, RAG, Email agents
+│   ├── agents/
+│   │   └── langgraph_workflow.py  # LangGraph agent graph: RAG, Web, and Email
 │
-│ └── models.py # Schemas Pydantic
-│
-├── Esprit_kb/ # Base ChromaDB persistée
-│ └── ESE/
-│ └── kb_contacts/
-│ └── kb_plan_etude_Telecom/
-│ └── kb_plan_etude_genie_civil/
-│
+│   └── models.py              # Pydantic request/response schemas
+
+├── Esprit_kb/                 # Persisted ChromaDB knowledge base
+│   └── ESE/
+│       ├── kb_contacts/
+│       ├── kb_plan_etude_Telecom/
+│       └── kb_plan_etude_genie_civil/
+
 ├── ui/
-│ └── mainJdid.py # Interface Chainlit (voix, fichiers, TTS toggle)
+│   └── mainJdid.py            # Chainlit UI (voice, file upload, TTS toggle)
 ```
+
 ---
 
 ## 🧠 Fonctionnement intelligent
