@@ -82,16 +82,6 @@ project/
 | `web_agent`   | Web search via DuckDuckGo, summarized with `distilbart-cnn-12-6` |
 | `email_agent` | Generates/send emails via `llama3` and Gmail SMTP               |
 
----
----
-
-## 🤖 LangGraph Agents
-
-| Agent         | Role                                                       |
-|---------------|------------------------------------------------------------|
-| `rag_agent`   | Local augmented search (persistent KB or uploaded file)    |
-| `web_agent`   | Web search via **DuckDuckGo** + summarization (Bart)       |
-| `email_agent` | Email generation + sending using **llama3** and **SMTP**   |
 
 ---
 
