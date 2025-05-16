@@ -83,20 +83,11 @@ project/
 | `email_agent` | Generates/send emails via `llama3` and Gmail SMTP               |
 
 
----
-
-## ✅ Key Features
-
-- Full multimodality (text, voice, files, images)
-- Smart augmented retrieval
-- Web summarization from live sources
-- Useful email generation & delivery
-- Integrated voice reading (TTS)
 
 ---
 
 
-## 📦 Setup
+## 📦 Getting started
 
 ```bash
 pip install -r requirements.txt
@@ -106,3 +97,8 @@ Then run :
 uvicorn app.main:app --reload
 chainlit run ui/mainJdid.py
 ```
+
+## Acknowledgments
+
+This project was carried out as part of an academic initiative by **Esprit School of Engineering**, under the supervision of faculty advisors. It highlights the practical integration of AI tools within modern education.
+
