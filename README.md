@@ -1,4 +1,4 @@
-# 🎓 Multimodal RAG Assistant – Esprit School of Engineering
+# 🤖 MR Green – Esprit’s AI Assistant for Multimodal Retrieval
 
 This project was developed as part of the coursework at **Esprit School of Engineering**, aiming to explore advanced AI applications through **Retrieval-Augmented Generation (RAG)**, **automatic email generation**, and **intelligent web search**, orchestrated using **LangGraph**.
 
