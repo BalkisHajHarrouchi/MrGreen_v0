@@ -1,10 +1,43 @@
-# 📚 Multimodal RAG Assistant – ESPRIT
+# 🎓 Multimodal RAG Assistant – Esprit School of Engineering
 
-This project is a smart **multimodal assistant** that answers user queries using **Retrieval-Augmented Generation (RAG)**, **automatic email generation**, and **intelligent web search**, all orchestrated via **LangGraph**.
+This project was developed as part of the coursework at **Esprit School of Engineering**, aiming to explore advanced AI applications through **Retrieval-Augmented Generation (RAG)**, **automatic email generation**, and **intelligent web search**, orchestrated using **LangGraph**.
 
 ---
 
-## 📁 Project Structure
+## 🔍 Overview
+
+This assistant supports **multimodal input** (text, voice, files) and intelligently routes requests using dedicated agents to answer questions, summarize the web, or generate emails. It demonstrates the integration of **FastAPI**, **Chainlit**, **ChromaDB**, and **LangChain** for smart academic assistants.
+
+---
+
+## 🚀 Features
+
+- Retrieval-Augmented Generation (RAG) with local and temporary knowledge bases
+- Multimodal input: text, voice (Moonshine), and documents (PDF, DOCX, images)
+- Live web summarization using DuckDuckGo and Bart
+- Automatic email generation with customizable previews
+- Text-to-speech output using gTTS
+
+---
+
+## 🧠 Tech Stack
+
+### Frontend
+- **Chainlit** (custom interface with TTS and file upload)
+
+### Backend
+- **FastAPI**
+- **LangChain**, **LangGraph**, **Ollama (LLaMA 3)**
+
+### Tools & Services
+- **ChromaDB**, **HuggingFace Transformers**
+- **Moonshine STT**, **gTTS (Google TTS)**
+- **SMTP (Gmail)** for email delivery
+
+---
+
+## 📁 Directory Structure
+
 
 ```text
 project/
@@ -41,44 +74,15 @@ project/
 
 ---
 
-## 🧠 Smart Workflow
+## 🌐 Workflow (LangGraph Agents)
 
-### 🔀 Supported multimodal input:
-- Plain text
-- Voice (via **Moonshine STT**)
-- Files (supported formats):
-  - PDF → `pdfplumber`, `pdf2image`
-  - DOCX → `docx.Document`
-  - Image → `PIL`, `pytesseract`
-  - CSV, TXT
+| Agent         | Role                                                             |
+|---------------|------------------------------------------------------------------|
+| `rag_agent`   | Retrieves from persistent or temporary ChromaDBs                 |
+| `web_agent`   | Web search via DuckDuckGo, summarized with `distilbart-cnn-12-6` |
+| `email_agent` | Generates/send emails via `llama3` and Gmail SMTP               |
 
 ---
-
-## 🚀 Global Pipeline
-
-1. **Automatic Preprocessing**
-   - Text extraction based on file type
-   - Creation of a **temporary ChromaDB** using `sentence-transformers/paraphrase-MiniLM-L6-v2`
-
-2. **Routing via LangGraph**
-   - If Web Search is enabled:
-     - `web_agent`: searches using **DuckDuckGo**
-     - Multi-source summarization via `sshleifer/distilbart-cnn-12-6`
-   - Otherwise:
-     - `rag_agent`:
-       - If a file is uploaded → RAG over temporary DB
-       - Else → RAG over persistent DB (`Esprit_kb/`)
-     - Answers generated using `llama3` (Ollama)
-
-3. **📬 Automatic Email Generation**
-   - Triggered if prompt contains "je veux un mail" or "génère un mail"
-   - Email agent generates the message using `llama3`
-   - Clear, editable preview before sending
-   - Sent via **SMTP**
-
-4. **🔊 Automatic Text-to-Speech (TTS)**
-   - Answers are read aloud using **gTTS** (if enabled)
-
 ---
 
 ## 🤖 LangGraph Agents
@@ -101,20 +105,6 @@ project/
 
 ---
 
-## 🛠️ Tech Stack
-
-- LangChain + LangGraph
-- Ollama (LLaMA 3)
-- DuckDuckGo + Newspaper3k
-- HuggingFace Transformers
-- ChromaDB
-- FastAPI & Chainlit
-- Moonshine STT
-- Google TTS (gTTS)
-- SMTP (Gmail)
-
-
----
 
 ## 📦 Setup
 
