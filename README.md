@@ -125,5 +125,19 @@ chainlit run ui/mainJdid.py
 
 ## Acknowledgments
 
-This project was carried out as part of an academic initiative by **Esprit School of Engineering**, under the supervision of faculty advisors. It highlights the practical integration of AI tools within modern education.
+This project was carried out as part of an academic initiative by **Esprit School of Engineering**, under the supervision and guidance of our professors.
+
+We would like to sincerely thank:
+
+- **Mr. Mourad Zéraï**, *Quality Director* and *Head of the AI Program* at Esprit, for his continuous support and strategic insight throughout the project.
+- **Mme. Nardine Hanfi**, *AI Researcher and Trainer* at the IL Pedagogical Unit, and member of the **MMSN** and **DASC** Research Teams at Esprit, for her technical mentorship and invaluable contributions to our understanding of applied AI.
+
+Their expertise, availability, and encouragement were essential in the successful development of MR Green.
+
+This project was realized by **AI students (3rd cohort)**:
+- Achref Essefi  
+- Zeineb Boussaidi  
+- Balkis Haj Harrouchi  
+- Wided Askri  
+- Nourchene Laroussi
 
